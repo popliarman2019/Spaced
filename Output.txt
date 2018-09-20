@@ -1,0 +1,5 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=49720:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/armanpopli/IdeaProjects/Spaced/out/production/Spaced Main
+The largest distance between drones is 13.601.
+The shortest distance between drones is 9.950.
+
+Process finished with exit code 0
